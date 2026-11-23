@@ -1,0 +1,93 @@
+HOA MEETING MINUTES
+
+Association: [Association name]
+Meeting: [Board meeting / annual meeting / special meeting]
+Date: [month day, year]
+Location: [address, video link, or both]
+Called to order: [time] by [name, role]
+Adjourned: [time]
+Minutes by: [name, role]
+
+Draft for the board to review. These minutes become the record when the board approves them.
+
+
+1. Call to order
+
+[Name, role] called the meeting to order at [time].
+
+
+2. Attendance and quorum
+
+Directors present: [names]
+Directors absent: [names]
+Also present: [owners or guests, or "none"]
+Quorum: A quorum [was / was not] present under the bylaws.
+
+
+3. Approval of the agenda
+
+Motion: Approve the agenda [as presented / with these changes: ...].
+Moved by: [name]
+Seconded by: [name]
+Vote: [for] for, [against] against, [abstain] abstain
+Result: Motion [passed / failed]
+
+
+4. Approval of previous minutes
+
+Document: Minutes of [date]
+Motion: Approve those minutes [as presented / with these corrections: ...].
+Moved by: [name]
+Seconded by: [name]
+Vote: [for] for, [against] against, [abstain] abstain
+Result: Motion [passed / failed]
+
+
+5. Reports
+
+[Officer or committee]: [What they reported, in one or two sentences.]
+
+A report is not a decision. If the board voted, record that motion in the next section.
+
+
+6. Decisions
+
+Copy this block once for each vote.
+
+Item: [short title]
+Motion: "[Exact words the board voted on.]"
+Moved by: [name]
+Seconded by: [name]
+Vote: [for] for, [against] against, [abstain] abstain
+Names, if the vote was not unanimous: [no votes and abstentions, or "unanimous"]
+Result: Motion [passed / failed]
+
+
+7. Action items
+
+- [Task]. Assigned to [name]. Due [date].
+
+
+8. Owner comments
+
+[One sentence per topic, if the board held an open forum. Leave this section out if there was no comment period.]
+
+
+9. Next meeting
+
+[Date, time, and location, or "Not set."]
+
+
+10. Adjournment
+
+Motion: Adjourn.
+Moved by: [name]
+Seconded by: [name]
+Vote: [result]
+The meeting adjourned at [time].
+
+
+Approved by the board on [date].
+
+---
+Formatting aid for volunteer secretaries. Not legal advice. Follow your governing documents and state law, and ask your association's attorney if you are unsure what to record.
